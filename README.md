@@ -7,7 +7,7 @@ ___
 
 ### ✅ 깃헙 Push/Pull 규칙
 
-1. 무조건 __pull__ 먼저 해줍니다. pull을 해서 해당 주차의 디렉토리가 생기지 않는다면 따로 만들어주세요
+1. 무조건 <span style='color: red'>**git pull**</span> 먼저 해줍니다. pull을 해서 해당 주차의 디렉토리가 생기지 않는다면 따로 만들어주세요
 
 ```
 $ git pull <remote 이름> <브랜치이름>
