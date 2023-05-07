@@ -1,8 +1,8 @@
 # 🔥 ADP 스터디 🔥
 
-<img width = "70%" src="https://user-images.githubusercontent.com/97590480/156875708-2d6bee9b-ce5c-4bbc-875a-5d6d5d85e51e.gif">
+<img src="https://user-images.githubusercontent.com/97590480/236661481-dfd98434-87a7-4942-81f0-d9e5ec7f8031.png">
 
-저희는 2023년 6월 or 9월 시험에서 ADP를 통과하기 위해 매주 1회씩 오프라인으로 만나 기출문제를 풀고 서로의 생각을 공유하는 스터디입니다.
+저희는 2023년 6월 or 9월 시험에서 ADP 실기를 통과하기 위해 매주 1회씩 오프라인으로 만나 기출문제를 풀고 서로의 생각을 공유하는 스터디입니다.
 ___
 
 ### ✅ 깃헙 Push/Pull 규칙
