@@ -5,6 +5,8 @@
 저희는 2023년 6월 or 9월 시험에서 ADP 실기를 통과하기 위해 매주 1회씩 오프라인으로 만나 기출문제를 풀고 서로의 생각을 공유하는 스터디입니다.
 ___
 
+[파이썬 한권으로 끝내기 실기대비 깃헙](https://github.com/adpclass/adp_book_ver01)
+
 ### ✅ 깃헙 Push/Pull 규칙
 
 1. 🚨 무조건 <span style='color: red'>**git pull**</span> 먼저 해줍니다. pull을 해서 해당 주차의 디렉토리가 생기지 않는다면 따로 만들어주세요
