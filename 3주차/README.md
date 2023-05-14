@@ -1,8 +1,8 @@
 ### 풀어야 할 범위
 
 #### 파이썬 한권으로 끝내기
-1. machine learning : 5절 support vector machine p 218 ~ 230
-2. statistics : 6절 cluster analysis p 355 ~ 364
+1. machine learning : 6절 KNN p 218 ~ 230
+2. statistics : 7절 연관분석 p 355 ~ 364
 
 #### 기출문제
 
