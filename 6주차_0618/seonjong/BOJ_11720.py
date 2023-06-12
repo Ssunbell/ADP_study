@@ -7,3 +7,11 @@ for number in splited_num:
     answer += number
 
 print(answer)
+
+answer = 0
+N = int(input())
+num = input()
+for i in range(N):
+    answer += int(num[i])
+    
+print(answer)
