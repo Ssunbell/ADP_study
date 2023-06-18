@@ -2,7 +2,10 @@
 
 <img src="https://user-images.githubusercontent.com/97590480/236661481-dfd98434-87a7-4942-81f0-d9e5ec7f8031.png">
 
-저희는 2023년 6월 or 9월 시험에서 ADP 실기를 통과하기 위해 매주 1회씩 오프라인으로 만나 기출문제를 풀고 서로의 생각을 공유하는 스터디입니다.
+저희는 2023년 ADP 실기를 통과하기 위해 매주 1회씩 오프라인으로 만나 기출문제를 풀고 서로의 생각을 공유하는 스터디입니다.
+
+### 일정
+<img width="963" src="https://github.com/Ssunbell/ADP_study/assets/97590480/40be55f4-783c-4ff0-ae79-7ee895fb9207">
 ___
 
 [파이썬 한권으로 끝내기 실기대비 깃헙](https://github.com/adpclass/adp_book_ver01)
